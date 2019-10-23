@@ -24,5 +24,6 @@
    gebruik van git.exe je niet te authenticeren wanneer je een private
    repository wil klonen.
 * Te doen
+** Lijst met software
 ** Windows Defender uitschakelen
 ** Link naar w10privacy toevoegen
