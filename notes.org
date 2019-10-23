@@ -6,6 +6,7 @@
    Settings -> System -> About -> System Info (rechtsboven) -> Advanced
    System Settings -> Environment Variables
 ** Toon seconden in de klok op de taakbalk
+** 
    bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
    - <Win> + r -> regedit
    - Navigeer in de registry naar de volgende sleutel:
@@ -17,6 +18,40 @@
    - Geef als naam op: ShowSecondsInSystemClock
    - Dubbelklik op ShowSecondsInSystemClock
    - Voer bij Value Data de waarde 1 in en klik op OK
+** Blue lighter filter
+   Settings -> System -> Display -> Night light settings
+** Software
+   Een overzicht van de softare die ik gebruik in Windows:
+   - Acrobat Reader DC
+   - Debian GNU/Linux
+   - Discord
+   - Fiddler
+   - Filezilla
+   - Firefox
+   - Git
+   - GNU Emacs
+   - Google Chrome
+   - Internet Explorer
+   - Irfanview
+   - LibreOffice
+   - LINQPad
+   - Microsoft SQL Server
+   - Microsoft SQL Server Management Studio
+   - NodeJS
+   - Notepad++
+   - Powershell
+   - Putty
+   - Python
+   - Racket
+   - Steam
+   - VcXSrv
+   - Visual Studio
+   - Visual Studio Code
+   - W10Privacy
+   - Windows Terminal
+   - WinRAR
+   - Wireshark
+   - WSL
 * Github
 ** Github authenticatie terwijl je via Visual Studio ingelogd staat bij github
    Als je via Visual Studio bent ingelogd op github, dan maakt git.exe
