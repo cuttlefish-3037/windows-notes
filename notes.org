@@ -6,7 +6,6 @@
    Settings -> System -> About -> System Info (rechtsboven) -> Advanced
    System Settings -> Environment Variables
 ** Toon seconden in de klok op de taakbalk
-** 
    bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
    - <Win> + r -> regedit
    - Navigeer in de registry naar de volgende sleutel:
@@ -22,36 +21,45 @@
    Settings -> System -> Display -> Night light settings
 ** Software
    Een overzicht van de softare die ik gebruik in Windows:
-   - Acrobat Reader DC
-   - Debian GNU/Linux
-   - Discord
-   - Fiddler
-   - Filezilla
-   - Firefox
-   - Git
-   - GNU Emacs
-   - Google Chrome
-   - Internet Explorer
-   - Irfanview
-   - LibreOffice
-   - LINQPad
-   - Microsoft SQL Server
-   - Microsoft SQL Server Management Studio
-   - NodeJS
-   - Notepad++
-   - Powershell
-   - Putty
-   - Python
-   - Racket
-   - Steam
-   - VcXSrv
-   - Visual Studio
-   - Visual Studio Code
-   - W10Privacy
-   - Windows Terminal
-   - WinRAR
-   - Wireshark
-   - WSL
+*** Communicatie
+**** Discord
+*** Connecties
+**** Filezilla
+**** Putty
+*** Documenten
+**** Acrobat Reader DC
+**** LibreOffice
+*** Games
+**** Steam
+*** Image viewer
+**** Irfanview
+*** Programmeren
+**** Git
+**** Visual Studio
+**** LINQPad
+**** Visual Studio Code
+**** Microsoft SQL Server
+**** Microsoft SQL Server Management Studio
+**** Powershell
+**** NodeJS
+**** Python
+**** Racket
+*** System utilities
+**** Debian GNU/Linux
+**** W10Privacy
+**** Windows Terminal
+**** Notepad++
+**** VcXSrv
+**** WinRAR
+**** WSL
+*** Text editor
+**** GNU Emacs
+*** Web development
+**** Google Chrome
+**** Internet Explorer
+**** Fiddler
+**** Firefox
+**** Wireshark
 * Github
 ** Github authenticatie terwijl je via Visual Studio ingelogd staat bij github
    Als je via Visual Studio bent ingelogd op github, dan maakt git.exe
@@ -62,4 +70,5 @@
 ** DONE Lijst met software
 ** TODO Windows Defender uitschakelen
 ** DONE Link naar w10privacy toevoegen
-** TODO Lijst met software beter organiseren
+** DONE Lijst met software beter organiseren
+** TODO Software lijst voorzien van links en beschrijvigen
