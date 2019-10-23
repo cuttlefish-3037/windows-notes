@@ -1,12 +1,13 @@
 #+TITLE: Windows 10 aantekeningen
 
 * Windows 10
+  Windows knop op het toetsenbord: <Win>
 ** Een environment variabele instellen
    Settings -> System -> About -> System Info (rechtsboven) -> Advanced
    System Settings -> Environment Variables
 ** Toon seconden in de klok op de taakbalk
    bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
-   - <Windows> + r -> regedit
+   - <Win> + r -> regedit
    - Navigeer in de registry naar de volgende sleutel:
 
      #+BEGIN_EXAMPLE
