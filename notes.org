@@ -8,9 +8,10 @@
    bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
    - <Windows> + r -> regedit
    - Navigeer in de registry naar de volgende sleutel:
-     #+EXAMPLE_BEGIN
+
+     #+BEGIN_EXAMPLE
      HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
-     #+EXAMPLE_END
+     #+END_EXAMPLE
    - Klik (rechter muisknop) op Advanced -> New -> DWORD (32-bit) Value
    - Geef als naam op: ShowSecondsInSystemClock
    - Dubbelklik op ShowSecondsInSystemClock
