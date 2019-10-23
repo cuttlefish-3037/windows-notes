@@ -17,7 +17,7 @@
    - Geef als naam op: ShowSecondsInSystemClock
    - Dubbelklik op ShowSecondsInSystemClock
    - Voer bij Value Data de waarde 1 in en klik op OK
-** Blue lighter filter
+** Blue light filter
    Settings -> System -> Display -> Night light settings
 ** Software
    Een overzicht van de softare die ik gebruik in Windows:
