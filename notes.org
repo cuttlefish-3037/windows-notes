@@ -1,0 +1,23 @@
+#+TITLE: Windows 10 aantekeningen
+
+* Windows 10
+** Een environment variabele instellen
+   Settings -> System -> About -> System Info (rechtsboven) -> Advanced
+   System Settings -> Environment Variables
+** Toon seconden in de klok op de taakbalk
+   bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
+   - <Windows> + r -> regedit
+   - Navigeer in de registry naar de volgende sleutel:
+     #+EXAMPLE_BEGIN
+     HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+     #+EXAMPLE_END
+   - Klik (rechter muisknop) op Advanced -> New -> DWORD (32-bit) Value
+   - Geef als naam op: ShowSecondsInSystemClock
+   - Dubbelklik op ShowSecondsInSystemClock
+   - Voer bij Value Data de waarde 1 in en klik op OK
+* Github
+** Github authenticatie terwijl je via Visual Studio ingelogd staat bij github
+   Als je via Visual Studio bent ingelogd op github, dan maakt git.exe
+   gebruik van dezelfde authenticatie gegevens. Je hoeft bij het
+   gebruik van git.exe je niet te authenticeren wanneer je een private
+   repository wil klonen.
