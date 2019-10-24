@@ -40,16 +40,16 @@
 **** Visual Studio Code
 **** Microsoft SQL Server
 **** Microsoft SQL Server Management Studio
-**** Powershell
 **** NodeJS
 **** Python
 **** Racket
 *** System utilities
 **** Debian GNU/Linux
+**** Notepad++
+**** Powershell
+**** VcXSrv
 **** W10Privacy
 **** Windows Terminal
-**** Notepad++
-**** VcXSrv
 **** WinRAR
 **** WSL
 *** Text editor
@@ -67,10 +67,10 @@
    gebruik van git.exe je niet te authenticeren wanneer je een private
    repository wil klonen.
 * Te doen
-** DONE Lijst met software
 ** TODO Windows Defender uitschakelen
-** DONE Link naar w10privacy toevoegen
-** DONE Lijst met software beter organiseren
 ** TODO Software lijst voorzien van links en beschrijvingen
 ** TODO Connecties van buiten op poort voor VcXSrv blokkeren met Windows Firewall
    bron: [[https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/#installinganxserver][Configuring a pretty and usable terminal emulator for WSL]]
+** DONE Lijst met software
+** DONE Link naar w10privacy toevoegen
+** DONE Lijst met software beter organiseren
