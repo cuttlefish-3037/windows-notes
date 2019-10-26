@@ -1,4 +1,5 @@
 #+TITLE: Windows 10 aantekeningen
+#+OPTIONS: toc
 
 * Windows 10
   Windows knop op het toetsenbord: <Win>
