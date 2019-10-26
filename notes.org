@@ -5,6 +5,8 @@
 ** Een environment variabele instellen
    Settings -> System -> About -> System Info (rechtsboven) -> Advanced
    System Settings -> Environment Variables
+** Windows 10 keybindings
+   [[https://support.microsoft.com/en-us/help/12445][Keyboard shortcuts in Windows]]
 ** Toon seconden in de klok op de taakbalk
    bron: [[https://www.howtogeek.com/325096/how-to-make-windows-10s-taskbar-clock-display-seconds/][How to Make Windows 10’s Taskbar Clock Display Seconds]]
    - <Win> + r -> regedit
