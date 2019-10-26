@@ -1,5 +1,4 @@
 #+TITLE: Windows 10 aantekeningen
-#+OPTIONS: toc
 
 * Windows 10
   Windows knop op het toetsenbord: <Win>
@@ -20,6 +19,12 @@
    - Geef als naam op: ShowSecondsInSystemClock
    - Dubbelklik op ShowSecondsInSystemClock
    - Voer bij Value Data de waarde 1 in en klik op OK
+** Powershell
+*** Standaard interactief powershell gedrag is verschrikkelijk
+    Dit is de oplossing:
+    - [[https://github.com/PowerShell/PSReadLine][A bash inspired readline implementation for PowerShell ]]
+    - [[https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-6][About Profiles]]
+*** Powershell variabele instellen
 ** Blue light filter
    Settings -> System -> Display -> Night light settings
 ** Software
