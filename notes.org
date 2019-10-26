@@ -69,10 +69,16 @@
    gebruik van git.exe je niet te authenticeren wanneer je een private
    repository wil klonen.
 * Te doen
-** TODO Windows Defender uitschakelen
-** TODO Software lijst voorzien van links en beschrijvingen
-** TODO Connecties van buiten op poort voor VcXSrv blokkeren met Windows Firewall
-   bron: [[https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/#installinganxserver][Configuring a pretty and usable terminal emulator for WSL]]
-** DONE Lijst met software
-** DONE Link naar w10privacy toevoegen
-** DONE Lijst met software beter organiseren
+** Test checkbox rendering op github
+   - [ ] Windows Defender uitschakelen
+   - [ ] Software lijst voorzien van links en beschrijvingen
+   - [ ] Connecties van buiten op poort voor VcXSrv blokkeren met Windows Firewall
+     - bron: [[https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/#installinganxserver][Configuring a pretty and usable terminal emulator for WSL]]
+*** Verwijderen
+**** TODO Windows Defender uitschakelen
+**** TODO Software lijst voorzien van links en beschrijvingen
+**** TODO Connecties van buiten op poort voor VcXSrv blokkeren met Windows Firewall
+     bron: [[https://blog.ropnop.com/configuring-a-pretty-and-usable-terminal-emulator-for-wsl/#installinganxserver][Configuring a pretty and usable terminal emulator for WSL]]
+**** DONE Lijst met software
+**** DONE Link naar w10privacy toevoegen
+**** DONE Lijst met software beter organiseren
